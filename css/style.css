@@ -17,7 +17,7 @@ td{
 }
 body{
 	background-image: url(background.png);
-	background: url(background.png) no-repeat;
+	background: url(background.png) 50% 50% no-repeat;
 	background-size: contain;
 }
 
