@@ -1,11 +1,25 @@
-p{
-  font-size: 20;
+table{
+	border: 1px solid black;
+	border-collapse: collapse;
+	background: #FFB6C1;
 }
 
-ol{
-  font-size: 20;
+td{
+	border: 1px solid black;
+	text-align: center;
+	vertical-align: middle;
+	padding: 5px;
 }
 
-ol{
-font-size: 20;
+.container{
+	max-width: 1024px;
+	margin: 0 auto;
 }
+body{
+	background-image: url(background.png);
+	background: url(background.png) no-repeat;
+	background-size: contain;
+}
+
+	
+
